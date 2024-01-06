@@ -1,2 +1,2 @@
 # sistema-bancario-dio
-Sistema bancário v 1.0 - Desafio Python DIO
+Sistema bancário v 2.0 - Desafio Python DIO
